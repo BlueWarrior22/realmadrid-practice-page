@@ -1,3 +1,6 @@
+$white: #fff;
+$black: #000;
+
 .text-nav{
     padding-right: 3em;
 }
@@ -11,10 +14,16 @@
 .secbar{
     position: absolute;
     padding-top: 1em;
+    color: white;
 }
 .secondpart{
     width: 100%;
 }
 .seg-nav{
     padding-left: 0.5em;
+}
+#bodypage{
+    background-image: url(img/copas.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
