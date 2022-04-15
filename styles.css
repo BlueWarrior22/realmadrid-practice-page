@@ -1,0 +1,20 @@
+.text-nav{
+    padding-right: 3em;
+}
+.Logo-Madrid{
+    width: 45px;
+}
+.imgcop{
+    position: relative;
+    filter: brightness(50%);
+}
+.secbar{
+    position: absolute;
+    padding-top: 1em;
+}
+.secondpart{
+    width: 100%;
+}
+.seg-nav{
+    padding-left: 0.5em;
+}
